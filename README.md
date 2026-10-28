@@ -15,5 +15,5 @@ jadwal belajar
 - CSS3 (Flexbox dan media query)
 - Git dan GitHub
 ## Tautan
-- Website: menyusul setelah deploy ke Vercel
+- Website: https://portofolio-aril2.vercel.app
 - Dibuat oleh: Andi Pratama, SMK Mitra
