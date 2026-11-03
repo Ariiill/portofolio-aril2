@@ -4,7 +4,7 @@ console.log("Halo, saya Syahril Maulana!");
 console.log("Ini latihan JavaScript pertamaku.");
 
 // 2. Data siswa
-const nama = "M. Rafli Ramadani";
+const nama = "M. Syahril Maulana";
 const kelas = "X Rekayasa Perangkat Lunak";
 const kkm = 75;
 
