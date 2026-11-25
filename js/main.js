@@ -149,3 +149,13 @@ if (daftarProyek && jumlahProyek) {
   pasangFilter("#filter-css", "CSS");
   pasangFilter("#filter-javascript", "JavaScript");
 }
+// tombol ke atas
+const tombolatas = document.querySelector("#tombol-atas");
+if (tombolatas)
+  tombolatas.addEventListener("click", function () {
+ window.scrollTo({
+
+  top: 0,
+  behavior: "smooth"
+});
+});
